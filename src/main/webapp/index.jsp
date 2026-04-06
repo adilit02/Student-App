@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>Welcome</h2>
+	<h2>Welcome To Student Management APP</h2>
     <a href="students">Go to Student Management</a>
 </body>
 </html>
